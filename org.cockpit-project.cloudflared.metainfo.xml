@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>org.cockpit_project.cloudflared</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Template</name>
+  <summary>Cloudflare tunnels application</summary>
+  <description>
+    <p>
+      Cloudfare tunnels application for Cockpit
+    </p>
+  </description>
+  <extends>org.cockpit_project.cloudflared</extends>
+  <launchable type="cockpit-manifest">cloudflared</launchable>
+  <url type="homepage">https://github.com/spotsnel/cockpit-cloudflared</url>
+  <url type="bugtracker">https://github.com/spotsnel/cockpit-cloudflared/issues</url>
+  <update_contact>me@gbraad.nl</update_contact>
+</component>

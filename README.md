@@ -1,2 +1,4 @@
-# cockpit-cloudflared
-Basic Cockpit application for use with Cloudflared tunnel registration
+Cloudflare tunnels for Cockpit
+==============================
+
+Basic Cockpit application for use with Cloudflare tunnels registration
