@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "repository": "git@github.com:spotsnel/cockpit-cloudflared.git",
   "author": "Gerard Braad <me@gbraad.nl>",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "license": "LGPL-2.1",
   "scripts": {
     "build": "webpack --mode production",
